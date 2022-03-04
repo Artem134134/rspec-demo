@@ -19,11 +19,11 @@ class Hero
   def hero_info
     "#{@name} has a health of #{@health}"
   end
-
+  
 end
 
-hero = Hero.new 'Nike'
-puts hero.name
-puts hero.power_up
-puts hero.power_down
-puts hero.hero_info
+#hero = Hero.new 'nike'
+#puts hero_name
+#puts hero.power_up
+#puts hero.power_down
+#puts hero.hero_info
