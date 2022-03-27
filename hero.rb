@@ -26,4 +26,4 @@ end
 #puts hero_name
 #puts hero.power_up
 #puts hero.power_down
-#puts hero.hero_info
+puts hero.hero_info
